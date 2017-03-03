@@ -6,7 +6,8 @@
 "platforms" : [
 	{ "platform":1,
 	"weekdayTimes": [
-	{"time":"0552","terminates":"southHylton","line":"greenLine"},
+	{"time":"0549","terminates":"southHylton","line":"greenLine"},
+	{"time":"0600","terminates":"southHylton","line":"greenLine"},
 	{"time":"0613","terminates":"southHylton","line":"greenLine"},
 	{"time":"0633","terminates":"southHylton","line":"greenLine"},
 	{"time":"0645","terminates":"southHylton","line":"greenLine"},
@@ -106,7 +107,7 @@
 	{"time":"0904","terminates":"southHylton","line":"greenLine"},
 	{"time":"0919","terminates":"southHylton","line":"greenLine"},
 	{"time":"0934","terminates":"southHylton","line":"greenLine"},
-	{"time":"0949","terminates":"southHylton","line":"greenLine"},
+	{"time":"0948","terminates":"southHylton","line":"greenLine"},
 	{"time":"1001","terminates":"southHylton","line":"greenLine"},
 	{"time":"1012","terminates":"southHylton","line":"greenLine"},
 	{"time":"1024","terminates":"southHylton","line":"greenLine"},
@@ -172,7 +173,7 @@
 	{"time":"2319","terminates":"southHylton","line":"greenLine"},
 	{"time":"2334","terminates":"southHylton","line":"greenLine"}
 	],"sundayTimes":[
-	{"time":"0652","terminates":"southHylton","line":"greenLine"},
+	{"time":"0653","terminates":"southHylton","line":"greenLine"},
 	{"time":"0721","terminates":"southHylton","line":"greenLine"},
 	{"time":"0742","terminates":"southHylton","line":"greenLine"},
 	{"time":"0812","terminates":"southHylton","line":"greenLine"},
@@ -238,7 +239,8 @@
 	]}
 	,{ "platform":2,
 	"weekdayTimes": [
-	{"time":"0610","terminates":"airport","line":"greenLine"},
+	{"time":"0607","terminates":"airport","line":"greenLine"},
+	{"time":"0619","terminates":"airport","line":"greenLine"},
 	{"time":"0631","terminates":"airport","line":"greenLine"},
 	{"time":"0655","terminates":"airport","line":"greenLine"},
 	{"time":"0707","terminates":"airport","line":"greenLine"},
@@ -295,9 +297,9 @@
 	{"time":"1719","terminates":"airport","line":"greenLine"},
 	{"time":"1731","terminates":"airport","line":"greenLine"},
 	{"time":"1743","terminates":"airport","line":"greenLine"},
-	{"time":"1756","terminates":"airport","line":"greenLine"},
-	{"time":"1807","terminates":"airport","line":"greenLine"},
-	{"time":"1819","terminates":"airport","line":"greenLine"},
+	{"time":"1758","terminates":"airport","line":"greenLine"},
+	{"time":"1813","terminates":"airport","line":"greenLine"},
+	{"time":"1820","terminates":"southGosforth","line":"greenLine"},
 	{"time":"1830","terminates":"airport","line":"greenLine"},
 	{"time":"1843","terminates":"airport","line":"greenLine"},
 	{"time":"1858","terminates":"airport","line":"greenLine"},
@@ -318,11 +320,11 @@
 	{"time":"2243","terminates":"airport","line":"greenLine"},
 	{"time":"2258","terminates":"airport","line":"greenLine"},
 	{"time":"2313","terminates":"regentCentre","line":"greenLine"},
-	{"time":"2324","terminates":"regentCentre","line":"greenLine"},
+	{"time":"2324","terminates":"southGosforth","line":"greenLine"},
 	{"time":"2339","terminates":"regentCentre","line":"greenLine"},
 	{"time":"2354","terminates":"regentCentre","line":"greenLine"}
 	],"saturdayTimes":[
-	{"time":"0611","terminates":"airport","line":"greenLine"},
+	{"time":"0612","terminates":"airport","line":"greenLine"},
 	{"time":"0629","terminates":"airport","line":"greenLine"},
 	{"time":"0644","terminates":"airport","line":"greenLine"},
 	{"time":"0659","terminates":"airport","line":"greenLine"},
@@ -335,7 +337,7 @@
 	{"time":"0844","terminates":"airport","line":"greenLine"},
 	{"time":"0859","terminates":"airport","line":"greenLine"},
 	{"time":"0915","terminates":"airport","line":"greenLine"},
-	{"time":"0929","terminates":"airport","line":"greenLine"},
+	{"time":"0931","terminates":"airport","line":"greenLine"},
 	{"time":"0943","terminates":"airport","line":"greenLine"},
 	{"time":"0955","terminates":"airport","line":"greenLine"},
 	{"time":"1007","terminates":"airport","line":"greenLine"},
@@ -377,9 +379,9 @@
 	{"time":"1719","terminates":"airport","line":"greenLine"},
 	{"time":"1731","terminates":"airport","line":"greenLine"},
 	{"time":"1743","terminates":"airport","line":"greenLine"},
-	{"time":"1755","terminates":"airport","line":"greenLine"},
-	{"time":"1807","terminates":"airport","line":"greenLine"},
-	{"time":"1819","terminates":"airport","line":"greenLine"},
+	{"time":"1758","terminates":"airport","line":"greenLine"},
+	{"time":"1813","terminates":"airport","line":"greenLine"},
+	{"time":"1820","terminates":"southGosforth","line":"greenLine"},
 	{"time":"1830","terminates":"airport","line":"greenLine"},
 	{"time":"1843","terminates":"airport","line":"greenLine"},
 	{"time":"1858","terminates":"airport","line":"greenLine"},
@@ -400,7 +402,7 @@
 	{"time":"2243","terminates":"airport","line":"greenLine"},
 	{"time":"2258","terminates":"airport","line":"greenLine"},
 	{"time":"2313","terminates":"regentCentre","line":"greenLine"},
-	{"time":"2324","terminates":"regentCentre","line":"greenLine"},
+	{"time":"2324","terminates":"southGosforth","line":"greenLine"},
 	{"time":"2339","terminates":"regentCentre","line":"greenLine"},
 	{"time":"2354","terminates":"regentCentre","line":"greenLine"}
 	],"sundayTimes":[
@@ -464,7 +466,7 @@
 	{"time":"2243","terminates":"airport","line":"greenLine"},
 	{"time":"2258","terminates":"airport","line":"greenLine"},
 	{"time":"2313","terminates":"regentCentre","line":"greenLine"},
-	{"time":"2324","terminates":"regentCentre","line":"greenLine"},
+	{"time":"2324","terminates":"southGosforth","line":"greenLine"},
 	{"time":"2339","terminates":"regentCentre","line":"greenLine"},
 	{"time":"2354","terminates":"regentCentre","line":"greenLine"}
 	]}]
