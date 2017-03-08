@@ -223,7 +223,7 @@
 	{"time":"2339","terminates":"pelaw","line":"greenLine"},
 	{"time":"2347","terminates":"pelaw","line":"yellowLine"}
 	],"saturdayTimes":[
-	{"time":"052§","terminates":"parkLane","line":"greenLine"},
+	{"time":"0521","terminates":"parkLane","line":"greenLine"},
 	{"time":"0524","terminates":"southShields","line":"yellowLine"},
 	{"time":"0528","terminates":"southHylton","line":"greenLine"},
 	{"time":"0536","terminates":"pelaw","line":"greenLine"},
