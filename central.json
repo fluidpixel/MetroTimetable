@@ -739,7 +739,7 @@
 				{"time":"2337","terminates":"manors","line":"yellowLine"},
 				{"time":"2345","terminates":"regentCentre","line":"greenLine"},
 				{"time":"2352","terminates":"benton","line":"yellowLine"},
-				{"time":"2356","terminates":"southGosforth","line":"greenLine"}
+				{"time":"2356","terminates":"southGosforth","line":"greenLine"},
                 {"time":"0002","terminates":"regentCentre","line":"greenLine"},
                 {"time":"0007","terminates":"benton","line":"yellowLine"},
                 {"time":"0010","terminates":"regentCentre","line":"greenLine"},
