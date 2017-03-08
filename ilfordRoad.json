@@ -673,7 +673,7 @@
 	{"time":"1729","terminates":"stJames","line":"yellowLine"},
 	{"time":"1732","terminates":"regentCentre","line":"greenLine"},
 	{"time":"1735","terminates":"airport","line":"greenLine"},
-	{"time":"1738","terminates":"monkseaton","line":"yellow"},
+	{"time":"1738","terminates":"monkseaton","line":"yellowLine"},
 	{"time":"1741","terminates":"stJames","line":"yellowLine"},
 	{"time":"1744","terminates":"regentCentre","line":"greenLine"},
 	{"time":"1747","terminates":"airport","line":"greenLine"},
