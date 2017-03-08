@@ -8,7 +8,7 @@
 	{ "platform":1,
 	"weekdayTimes": [
 	{"time":"0521","terminates":"southShields","line":"yellowLine"},
-	{"time":"0524","terminates":"parkLaneInterchange","line":"greenLine"},
+	{"time":"0524","terminates":"parkLane","line":"greenLine"},
 	{"time":"0528","terminates":"southHylton","line":"greenLine"},
 	{"time":"0539","terminates":"pelaw","line":"greenLine"},
 	{"time":"0549","terminates":"southHylton","line":"greenLine"},
@@ -16,7 +16,7 @@
 	{"time":"0604","terminates":"pelaw","line":"greenLine"},
 	{"time":"0610","terminates":"southHylton","line":"greenLine"},
 	{"time":"0615","terminates":"southShields","line":"yellowLine"},
-	{"time":"0618","terminates":"parkLaneInterchange","line":"greenLine"},
+	{"time":"0618","terminates":"parkLane","line":"greenLine"},
 	{"time":"0622","terminates":"southHylton","line":"greenLine"},
 	{"time":"0627","terminates":"southShields","line":"yellowLine"},
 	{"time":"0632","terminates":"pelaw","line":"greenLine"},
@@ -230,7 +230,7 @@
 	{"time":"2341","terminates":"pelaw","line":"greenLine"},
 	{"time":"2348","terminates":"pelaw","line":"yellowLine"}
 	],"saturdayTimes":[
-	{"time":"0523","terminates":"parkLaneInterchange","line":"greenLine"},
+	{"time":"0523","terminates":"parkLane","line":"greenLine"},
 	{"time":"0527","terminates":"southShields","line":"yellowLine"},
 	{"time":"0530","terminates":"southHylton","line":"greenLine"},
 	{"time":"0540","terminates":"pelaw","line":"greenLine"},

@@ -6,12 +6,12 @@
 "platforms" : [
 	{ "platform":1,
 	"weekdayTimes": [
-	{"time":"0533","terminates":"parkLaneInterchange","line":"greenLine"},
+	{"time":"0533","terminates":"parkLane","line":"greenLine"},
 	{"time":"0538","terminates":"southHylton","line":"greenLine"},
 	{"time":"0548","terminates":"southHylton","line":"greenLine"},
 	{"time":"0601","terminates":"southHylton","line":"greenLine"},
     {"time":"0622","terminates":"southHylton","line":"greenLine"},
-	{"time":"0630","terminates":"parkLaneInterchange","line":"greenLine"},
+	{"time":"0630","terminates":"parkLane","line":"greenLine"},
 	{"time":"0634","terminates":"southHylton","line":"greenLine"},
 	{"time":"0649","terminates":"southHylton","line":"greenLine"},
 	{"time":"0700","terminates":"southHylton","line":"greenLine"},
@@ -94,7 +94,7 @@
 	{"time":"2323","terminates":"southHylton","line":"greenLine"},
 	{"time":"2338","terminates":"sunderland","line":"greenLine"}
 	],"saturdayTimes":[
-	{"time":"0535","terminates":"parkLaneInterchange","line":"greenLine"},
+	{"time":"0535","terminates":"parkLane","line":"greenLine"},
 	{"time":"0542","terminates":"southHylton","line":"greenLine"},
 	{"time":"0559","terminates":"southHylton","line":"greenLine"},
 	{"time":"0608","terminates":"southHylton","line":"greenLine"},
