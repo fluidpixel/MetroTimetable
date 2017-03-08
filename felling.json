@@ -533,6 +533,7 @@
 	{"time":"0552","terminates":"airport","line":"greenLine"},
 	{"time":"0603","terminates":"stJames","line":"yellowLine"},
 	{"time":"0612","terminates":"airport","line":"greenLine"},
+    {"time":"0615","terminates":"stJames","line":"yellowLine"},
 	{"time":"0627","terminates":"stJames","line":"yellowLine"},
 	{"time":"0633","terminates":"airport","line":"greenLine"},
 	{"time":"0639","terminates":"stJames","line":"yellowLine"},
