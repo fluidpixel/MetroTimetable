@@ -325,7 +325,7 @@
 	{"time":"2247","terminates":"airport","line":"greenLine"},
 	{"time":"2302","terminates":"airport","line":"greenLine"},
 	{"time":"2317","terminates":"regentCentre","line":"greenLine"},
-	{"time":"2328","terminates":"southGosoforth","line":"greenLine"},
+	{"time":"2328","terminates":"southGosforth","line":"greenLine"},
 	{"time":"2342","terminates":"regentCentre","line":"greenLine"},
 	{"time":"2351","terminates":"regentCentre","line":"greenLine"},
 	{"time":"2357","terminates":"regentCentre","line":"greenLine"}
